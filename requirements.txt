@@ -1,4 +1,0 @@
-pandas
-pandas-ta
-requests
-python-telegram-bot
