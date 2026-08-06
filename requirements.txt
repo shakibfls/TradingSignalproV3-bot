@@ -1,4 +1,0 @@
-pandas<3.0.0
-requests
-python-telegram-bot
-tradingview-ta
