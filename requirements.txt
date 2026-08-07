@@ -3,3 +3,4 @@ python-telegram-bot>=21.0
 pandas
 numpy
 requests
+pytz
